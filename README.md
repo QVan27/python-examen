@@ -8,6 +8,9 @@ Create a new folder, open terminal from the new folder
   git clone https://github.com/QVan27/python-examen.git .
 ```
 ```bash
+  rm -rf .git
+```
+```bash
   pip install -r requirements.txt
 ```
 ## Running Tests
