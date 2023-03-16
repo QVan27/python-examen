@@ -30,5 +30,8 @@ To run Exo 3
   cd flask_blog
 ```
 ```bash
+  export FLASK_APP=system_info
+```
+```bash
   flask run
 ```
